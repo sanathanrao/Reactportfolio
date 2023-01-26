@@ -53,4 +53,8 @@
   .grid__container{
     grid-template-columns: repeat(2, 1fr);
   }
+  .icon__size{
+    width: 60px;
+    height: 60px;
+  }
 }

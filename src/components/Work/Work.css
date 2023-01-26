@@ -156,3 +156,8 @@
     grid-template-columns: auto;
   }
 }
+@media screen and (max-width: 500px){
+  .container{
+    margin: 15px -10px;
+  }
+}
