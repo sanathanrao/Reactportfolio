@@ -74,10 +74,10 @@ const Work = () => {
           <div class="contentBx">
             <h2>Portfolio made with React❤️ & Css</h2>
             <div>
-                <a href="https://github.com/sanathan-git/Estateproperties" target="_blank">
+                <a href="https://github.com/sanathan-git/Reactportfolio" target="_blank">
                     <i class="ic fa-brands fa-github"></i>
                   </a>
-                   <a href="https://estateproperties.vercel.app/" target="_blank">
+                   <a href="https://sanathanrao.vercel.app/" target="_blank">
                    <i class="ic fa-solid fa-eye"></i>
                    </a>
             </div>

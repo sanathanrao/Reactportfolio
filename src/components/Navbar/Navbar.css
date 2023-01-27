@@ -89,6 +89,7 @@
 }
 .app__navbar-smallscreen_links {
   list-style: none;
+  padding-top: 60px;
 }
 .app__navbar-smallscreen_links li {
   margin: 2rem;
@@ -159,7 +160,7 @@
       width: 110px;
   }
   .app__navbar-smallscreen_overlay{
-    width: 92%;
+    width: 60%;
   }
 } 
 @media screen and (min-width: 200px) {
