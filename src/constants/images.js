@@ -27,6 +27,7 @@ import websiteoutlook from '../assets/websiteoutlook.png'
 import housecanada from '../assets/housecanada.png'
 import portfff from '../assets/portfff.png'
 import metta from '../assets/metta.png'
+import nuxt from '../assets/Icons/nuxt.png'
 
 
 
@@ -60,5 +61,6 @@ export default {
     websiteoutlook,
     housecanada,
     portfff,
-    metta
+    metta,
+    nuxt
 };

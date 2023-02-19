@@ -55,6 +55,11 @@ const Skills = () => {
              <h2 className='icon__text'>tailwind</h2>
          </div>
 
+         <div className='icon__box'>
+            <img  className='icon__size' src={images.nuxt}/>
+             <h2 className='icon__text'>Nuxt</h2>
+         </div>
+
        </div>
     </div>
   )
