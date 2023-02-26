@@ -60,6 +60,11 @@ const Skills = () => {
              <h2 className='icon__text'>Nuxt</h2>
          </div>
 
+         <div className='icon__box'>
+            <img  className='icon__size' src={images.figma}/>
+             <h2 className='icon__text'>Figma</h2>
+         </div>
+
        </div>
     </div>
   )

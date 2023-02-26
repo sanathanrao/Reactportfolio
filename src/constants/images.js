@@ -28,6 +28,7 @@ import housecanada from '../assets/housecanada.png'
 import portfff from '../assets/portfff.png'
 import metta from '../assets/metta.png'
 import nuxt from '../assets/Icons/nuxt.png'
+import figma from '../assets/Icons/figma.png'
 
 
 
@@ -62,5 +63,6 @@ export default {
     housecanada,
     portfff,
     metta,
-    nuxt
+    nuxt,
+    figma
 };
