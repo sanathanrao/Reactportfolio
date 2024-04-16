@@ -13,7 +13,7 @@ const Contact = () => {
        <h1 className='contact__heading' >Contact Me</h1>
       <div className='social__wrap' > 
         <div className='contact__box'>
-         <a href="https://twitter.com/sanathan_" target="_blank">
+         <a href="https://twitter.com/sanathanrao" target="_blank">
            <img src={images.twitter} /> 
          </a>  
         </div>
@@ -23,7 +23,7 @@ const Contact = () => {
          </a>  
         </div>
         <div className='contact__box'>
-         <a href="https://github.com/sanathan-git"  target="_blank">
+         <a href="https://github.com/sanathanrao"  target="_blank">
            <img src={images.github} /> 
          </a>  
         </div>
