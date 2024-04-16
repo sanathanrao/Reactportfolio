@@ -19,22 +19,22 @@ const Contact = () => {
         </div>
         <div className='contact__box'>
          <a href="https://sanathan.hashnode.dev/" target="_blank">
-           <img src={images.hashnode} /> 
+           <img src={images.hashnode}/> 
          </a>  
         </div>
         <div className='contact__box'>
          <a href="https://github.com/sanathanrao"  target="_blank">
-           <img src={images.github} /> 
+           <img src={images.github}/> 
          </a>  
         </div>
         <div className='contact__box'>
          <a href="https://dev.to/sanathan"  target="_blank">
-           <img src={images.dev} /> 
+           <img src={images.dev}/> 
          </a>  
         </div>
         <div className='contact__box'>
          <a href="https://www.showwcase.com/sanathan" target="_blank">
-           <img src={images.showwcase} />
+           <img src={images.showwcase}/>
          </a>   
         </div>
       </div>

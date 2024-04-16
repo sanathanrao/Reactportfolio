@@ -22,6 +22,7 @@
   .social__wrap{
     display: flex;
   }
+  
   @media screen and (max-width: 700px){
     .contact__padding{
       padding: 1.5rem;
@@ -33,6 +34,7 @@
       font-size: 16px;
     }
   }
+
   @media screen and (max-width: 450px){
     .contact__padding{
       padding: 1rem;
